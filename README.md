@@ -25,19 +25,19 @@ I'm [Sanjana](https://github.com/yourusername), a passionate developer from Nort
 - Programming Languages: 
   - Python
   - Java
-  - C/C++
+  - C / C++
   - R
     
 - Machine Learning: 
   - Natural Language Processing / Sentiment Analysis
-  - Pandas/NumPy
+  - Pandas / NumPy
   - Scikit Learn
   - Keras
   - PyTorch
   - Simple Transformers
   
 - Frontend Development: 
-  - HTML/CSS
+  - HTML / CSS
   - Angular JS
 
 - Database:

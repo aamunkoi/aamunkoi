@@ -29,7 +29,7 @@ I'm [Sanjana](https://github.com/yourusername), a passionate developer from Nort
   - R
     
 - Machine Learning: 
-  - Natural Language Processing
+  - Natural Language Processing / Sentiment Analysis
   - Pandas/NumPy
   - Scikit Learn
   - Keras

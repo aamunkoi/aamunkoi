@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm [Sanjana](https://github.com/yourusername), a passionate developer from North Carolina, USA.
+I'm [Sanjana](https://github.com/aamunkoi), a passionate developer from North Carolina, USA.
 
 🌱 I'm currently learning and working on various exciting projects.
 💬 Ask me about my research! I’m a Ph.D. student in Computer Science, deeply passionate about NLP and AI/ML in both academia and industry.
